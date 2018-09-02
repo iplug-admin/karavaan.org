@@ -1,4 +1,4 @@
-Karavaan 2017 website by Saumil Shah (20151179)
+Karavaan 2017 website
 
 A fun little one-pager with modal-ized (is that a word?) 'pages'
 and a cool depth effect (click on a menu item to see what I mean).
@@ -10,3 +10,5 @@ Icons courtesy Font-Awesome (fortawesome.github.com/Font-Awesome)
 jQuery (jquery.com)
 Sass functions (@HugoGiraudel)
 Skel (skel.io)
+
+Originally by Saumil Shah, IISER Pune
